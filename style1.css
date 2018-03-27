@@ -108,8 +108,7 @@ h3 {
   color: #1a1a1a;
   font-size: 50px;
   font-family:'GlacialIndifferenceRegular';
-  text-align: middle;
-  padding: 100px
+  text-align: center;
 }
   /* position: pull-right;
   top: 10%;
@@ -156,7 +155,7 @@ footer {
 #contact{  font-family: 'GlacialIndifferenceRegular';
   font-weight: normal;
   font-style: normal;
-  color: #grey;
+  color: #f8fafa;
   font-size: 20px;
 
 #navbarSupportedContent {
@@ -167,7 +166,4 @@ footer {
   height: auto;
   width: 100%;
   margin-right: 90px;
-}
-#rossana {
-  object-fit: contain;
 }
