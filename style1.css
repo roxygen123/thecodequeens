@@ -17,6 +17,8 @@ html {
  left: 0;
  top: 0;
  background: rgba(244, 244, 244, 0.79);
+ -webkit-transition: opacity 0.25s ease;
+ -moz-transition: opacity 0.25s ease;
 }
 
 .navbarnavbar-inverse{
@@ -52,7 +54,7 @@ h3 {
   height: auto;
 }
 
-.overlay {
+/* .overlay {
   position: absolute;
   top: 0;
   bottom: 0;
@@ -63,14 +65,14 @@ h3 {
   opacity: 0;
   transition: .5s ease;
   background-color: #f8fafa;
-}
+} */
 .messahe{
   position: relative;
 }
-.container2:hover .overlay {
+.container2:hover #overlay {
   opacity: 0.5;
   }
-.container1:hover .overlay {
+.container3:hover #overlay {
   opacity: 1;
 }
 
