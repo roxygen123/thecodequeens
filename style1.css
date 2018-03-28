@@ -167,3 +167,15 @@ footer {
   width: 100%;
   margin-right: 90px;
 }
+
+.carousel-content {
+   color:black;
+   display:flex;
+   align-items:center;
+}
+
+#text-carousel {
+ width: 100%;
+ height: auto;
+ padding: 50px;
+}
