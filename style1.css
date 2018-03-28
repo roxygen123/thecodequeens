@@ -17,8 +17,8 @@ html {
  left: 0;
  top: 0;
  background: rgba(244, 244, 244, 0.79);
- -webkit-transition: opacity 0.25s ease;
- -moz-transition: opacity 0.25s ease;
+ -webkit-transition: opacity 50s ease;
+ -moz-transition: opacity 50s ease;
 }
 
 .navbarnavbar-inverse{
